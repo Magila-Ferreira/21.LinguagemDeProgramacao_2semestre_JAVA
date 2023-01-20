@@ -1,0 +1,48 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 30 de set. de 2022, 08:25:27
+    Author     : Mágila Morgana S. Ferreira
+*/
+body {
+    background-color: #030303;
+    color: #f0f0f0;
+}
+h1, h3 {
+    color:#aacaff;
+    text-align: center;
+}
+h3 {
+    margin: 50px 0 0 0;
+}
+h1, h5, div {
+    text-align: center;
+}
+div {
+    font-size: 30px;
+}
+p {
+    text-align: justify;
+    padding: 0 50px;
+}
+em {
+    color: red;
+}
+form {
+    text-align: left;
+    margin-left: 100px;
+}
+input {
+    min-width: 300px;
+}
+button {
+    background: blue;
+    color: white;
+    min-width: 100px;
+    border-radius: 30px;
+}
+#nome {
+    margin-left: 30px;
+}
